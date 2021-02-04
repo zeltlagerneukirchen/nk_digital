@@ -223,7 +223,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/meet.jit.si\/zeltlagerneukirchen_sdh"
                 }],
          "type":"tilelayer",
          "visible":true,
