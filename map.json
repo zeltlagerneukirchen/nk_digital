@@ -523,7 +523,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/motherfuckingwebsite.com\/"
+                 "value":"https:\/\/motherfuckingwebsite.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
