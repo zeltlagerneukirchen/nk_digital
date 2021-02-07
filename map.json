@@ -569,12 +569,6 @@
          "id":115,
          "name":"yt_steilk\u00fcste",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/JWeNcVD03-o"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":90,
