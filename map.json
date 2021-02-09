@@ -340,7 +340,7 @@
                  "value":"lezi"
                 }, 
                 {
-                 "name":"openWebsiteTrigger",
+                 "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
                 }],
@@ -361,6 +361,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"kuezi"
+                }, 
+                {
+                 "name":"onaction",
+                 "type":"string",
+                 "value":"onAction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -399,7 +404,7 @@
                  "value":"esssaal"
                 }, 
                 {
-                 "name":"openWebsiteTrigger",
+                 "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
                 }],
@@ -422,7 +427,7 @@
                  "value":"essaaalZwei"
                 }, 
                 {
-                 "name":"openWebsiteTrigger",
+                 "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
                 }],
@@ -463,7 +468,7 @@
                  "value":"lezi"
                 }, 
                 {
-                 "name":"openWebsiteTrigger",
+                 "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
                 }],
@@ -484,6 +489,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"klo"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
