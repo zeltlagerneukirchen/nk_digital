@@ -337,7 +337,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"lezi"
+                 "value":"nklezi"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -360,7 +360,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"kuezi"
+                 "value":"nkkuezi"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -383,7 +383,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"kueche"
+                 "value":"nkkueche"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -406,7 +406,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"esssaalessen"
+                 "value":"nkesssaalessen"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -429,7 +429,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"esssaaldisco"
+                 "value":"nkesssaaldisco"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -452,7 +452,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tischtennis"
+                 "value":"nktischtennis"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -475,7 +475,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"lalei"
+                 "value":"nklalei"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -498,7 +498,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"klo"
+                 "value":"nkklo"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -784,7 +784,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
