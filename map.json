@@ -365,7 +365,7 @@
                 {
                  "name":"jitsiTrigger",
                  "type":"string",
-                 "value":"onAction"
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
