@@ -381,9 +381,14 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"kueche",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":""
+                 "value":"kueche"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -779,7 +784,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.5.0",
  "tileheight":32,
  "tilesets":[
         {
